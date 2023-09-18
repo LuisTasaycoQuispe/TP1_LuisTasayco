@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+body{
+	display: grid;
+	align-items: center;
+	justify-content: center;
+
+	
+}
+
+h1{
+	position: relative;
+	top: 50px;
+	text-align: center;
+	 
+	
+}
+.formulario{
+	font-family: sans-serif;
+	width: 500px;			
+	color:gray;
+	position: relative;
+	top: 80px;
+}
+.btnEnviar{
+	border: none;
+	border-radius: 10px 100px / 120px;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+	
+}
+button {
+	width:150px;
+	padding: 10px;
+	background: orange;
+	
+}
+	
+	
